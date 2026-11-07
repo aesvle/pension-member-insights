@@ -1,0 +1,1220 @@
+member_id,age,job_category,retirement_risk,risk_level
+M02156,67.9,Medical Technologist,0.96,High
+M01582,67.0,Administration,0.94,High
+M04606,66.7,Registered Nurse,0.93,High
+M02695,65.6,Administration,0.89,High
+M01744,65.2,Registered Nurse,0.87,High
+M03308,64.9,Registered Nurse,0.86,High
+M01052,65.1,Personal Support Worker,0.85,High
+M03895,64.9,Personal Support Worker,0.84,High
+M02192,64.8,Administration,0.83,High
+M00608,64.1,Registered Nurse,0.8,High
+M00088,64.6,Medical Technologist,0.8,High
+M04548,62.4,Management,0.79,High
+M01916,64.8,Allied Health Professional,0.78,High
+M03354,64.4,Allied Health Professional,0.78,High
+M04960,62.2,Management,0.78,High
+M00701,63.9,Medical Technologist,0.77,High
+M03775,64.2,Allied Health Professional,0.76,High
+M01729,63.6,Registered Nurse,0.76,High
+M02963,63.5,Administration,0.75,High
+M03810,63.6,Medical Technologist,0.75,High
+M01505,63.5,Medical Technologist,0.74,High
+M04952,64.0,Allied Health Professional,0.74,High
+M02813,63.2,Registered Nurse,0.73,High
+M03491,63.2,Administration,0.73,High
+M01907,63.5,Registered Nurse,0.72,High
+M03009,63.6,Personal Support Worker,0.71,High
+M00305,63.6,Personal Support Worker,0.71,High
+M04001,63.3,Registered Nurse,0.7,High
+M01738,61.7,Management,0.7,High
+M02992,63.4,Registered Practical Nurse,0.7,High
+M03408,63.4,Registered Practical Nurse,0.7,High
+M04490,63.7,Registered Practical Nurse,0.69,High
+M03139,63.2,Registered Nurse,0.69,High
+M02332,63.4,Allied Health Professional,0.69,High
+M01004,63.8,Allied Health Professional,0.69,High
+M01843,62.8,Registered Nurse,0.69,High
+M02202,62.7,Registered Nurse,0.68,High
+M00775,62.9,Personal Support Worker,0.67,High
+M01030,62.8,Registered Nurse,0.65,High
+M00736,62.3,Registered Nurse,0.64,High
+M02146,62.3,Registered Nurse,0.64,High
+M03327,62.6,Personal Support Worker,0.64,High
+M01115,62.5,Registered Nurse,0.62,High
+M01144,62.4,Registered Nurse,0.61,High
+M01777,62.4,Registered Practical Nurse,0.59,Medium
+M04505,61.7,Administration,0.57,Medium
+M02243,61.7,Registered Nurse,0.57,Medium
+M01618,61.9,Medical Technologist,0.57,Medium
+M00648,61.9,Medical Technologist,0.57,Medium
+M03678,60.5,Management,0.57,Medium
+M03782,61.7,Registered Nurse,0.57,Medium
+M00318,62.3,Allied Health Professional,0.57,Medium
+M00156,60.5,Management,0.57,Medium
+M01246,61.6,Registered Nurse,0.56,Medium
+M04315,61.9,Personal Support Worker,0.56,Medium
+M01530,61.5,Registered Nurse,0.55,Medium
+M00338,61.5,Registered Nurse,0.55,Medium
+M04596,62.2,Personal Support Worker,0.55,Medium
+M01320,62.5,Allied Health Professional,0.55,Medium
+M01594,61.7,Medical Technologist,0.55,Medium
+M01107,61.5,Administration,0.54,Medium
+M01815,61.6,Medical Technologist,0.54,Medium
+M03025,62.0,Registered Practical Nurse,0.54,Medium
+M02294,61.8,Registered Nurse,0.54,Medium
+M04122,61.7,Registered Nurse,0.53,Medium
+M03374,61.4,Registered Nurse,0.53,Medium
+M02158,59.8,Management,0.53,Medium
+M03732,61.4,Registered Nurse,0.53,Medium
+M01959,61.9,Registered Practical Nurse,0.53,Medium
+M01098,61.9,Registered Practical Nurse,0.53,Medium
+M00325,61.3,Registered Nurse,0.52,Medium
+M03031,61.5,Medical Technologist,0.52,Medium
+M04384,61.5,Medical Technologist,0.52,Medium
+M03273,61.2,Registered Nurse,0.51,Medium
+M03103,61.8,Allied Health Professional,0.51,Medium
+M00850,61.4,Medical Technologist,0.51,Medium
+M03527,61.2,Administration,0.51,Medium
+M03633,61.1,Registered Nurse,0.5,Medium
+M00109,61.4,Registered Nurse,0.49,Medium
+M04059,61.9,Registered Practical Nurse,0.49,Medium
+M01615,61.2,Medical Technologist,0.49,Medium
+M01995,61.3,Personal Support Worker,0.49,Medium
+M01013,61.0,Registered Nurse,0.49,Medium
+M02686,61.0,Registered Nurse,0.49,Medium
+M02610,61.0,Administration,0.48,Medium
+M00666,61.2,Personal Support Worker,0.48,Medium
+M01664,59.3,Management,0.47,Medium
+M02134,61.4,Registered Practical Nurse,0.47,Medium
+M02246,61.4,Allied Health Professional,0.46,Medium
+M02264,61.3,Registered Practical Nurse,0.46,Medium
+M01061,60.8,Registered Nurse,0.46,Medium
+M02574,61.7,Registered Practical Nurse,0.46,Medium
+M04700,61.3,Registered Practical Nurse,0.46,Medium
+M03106,59.2,Management,0.46,Medium
+M00996,61.3,Registered Practical Nurse,0.46,Medium
+M04901,60.8,Administration,0.46,Medium
+M03715,60.8,Registered Nurse,0.46,Medium
+M04373,61.3,Registered Practical Nurse,0.46,Medium
+M03920,61.3,Allied Health Professional,0.45,Medium
+M03053,61.0,Registered Nurse,0.45,Medium
+M02858,60.9,Medical Technologist,0.45,Medium
+M02939,60.7,Registered Nurse,0.45,Medium
+M01668,61.3,Allied Health Professional,0.45,Medium
+M03998,60.6,Registered Nurse,0.44,Medium
+M02938,60.6,Registered Nurse,0.44,Medium
+M01001,60.9,Personal Support Worker,0.44,Medium
+M04966,60.9,Personal Support Worker,0.44,Medium
+M03881,60.5,Registered Nurse,0.43,Medium
+M02916,60.9,Registered Nurse,0.43,Medium
+M00871,61.1,Allied Health Professional,0.43,Medium
+M01181,60.5,Administration,0.43,Medium
+M03460,60.5,Registered Nurse,0.43,Medium
+M01057,60.5,Registered Nurse,0.43,Medium
+M02092,60.7,Personal Support Worker,0.42,Medium
+M04903,61.0,Registered Practical Nurse,0.42,Medium
+M03894,60.4,Registered Nurse,0.42,Medium
+M03253,60.6,Personal Support Worker,0.41,Medium
+M02369,60.3,Registered Nurse,0.41,Medium
+M03131,60.4,Administration,0.41,Medium
+M00307,60.9,Allied Health Professional,0.4,Medium
+M03328,60.5,Personal Support Worker,0.4,Medium
+M02946,60.2,Registered Nurse,0.39,Medium
+M02414,60.2,Administration,0.39,Medium
+M04422,60.2,Registered Nurse,0.39,Medium
+M01614,60.1,Registered Nurse,0.38,Medium
+M04916,60.3,Medical Technologist,0.38,Medium
+M02980,60.7,Allied Health Professional,0.38,Medium
+M01135,60.1,Registered Nurse,0.38,Medium
+M03803,60.5,Registered Practical Nurse,0.37,Medium
+M02407,60.4,Registered Practical Nurse,0.36,Medium
+M01920,60.5,Allied Health Professional,0.36,Medium
+M03934,59.9,Registered Nurse,0.36,Medium
+M00292,59.9,Administration,0.36,Medium
+M02015,60.2,Registered Nurse,0.35,Medium
+M02665,60.7,Registered Practical Nurse,0.35,Medium
+M00739,60.1,Personal Support Worker,0.35,Medium
+M03796,60.1,Personal Support Worker,0.35,Medium
+M03494,60.3,Registered Practical Nurse,0.35,Medium
+M01761,59.7,Administration,0.34,Medium
+M02472,60.0,Personal Support Worker,0.34,Medium
+M00833,59.7,Administration,0.34,Medium
+M04252,59.7,Registered Nurse,0.34,Medium
+M03015,60.2,Registered Practical Nurse,0.34,Medium
+M04046,60.3,Allied Health Professional,0.34,Medium
+M01171,59.6,Administration,0.33,Medium
+M00605,60.1,Registered Practical Nurse,0.33,Medium
+M03067,59.6,Administration,0.33,Medium
+M03593,59.8,Medical Technologist,0.33,Medium
+M04243,59.6,Registered Nurse,0.33,Medium
+M00737,59.6,Registered Nurse,0.33,Medium
+M02718,60.6,Allied Health Professional,0.33,Medium
+M02172,60.1,Registered Practical Nurse,0.33,Medium
+M01293,60.1,Registered Practical Nurse,0.33,Medium
+M01885,59.8,Medical Technologist,0.33,Medium
+M04722,59.5,Registered Nurse,0.32,Medium
+M04159,59.5,Administration,0.32,Medium
+M04306,59.5,Administration,0.32,Medium
+M02999,59.5,Registered Nurse,0.32,Medium
+M00355,59.5,Registered Nurse,0.32,Medium
+M00403,60.1,Medical Technologist,0.32,Medium
+M02310,59.5,Administration,0.32,Medium
+M01005,59.7,Medical Technologist,0.32,Medium
+M00069,60.4,Allied Health Professional,0.31,Medium
+M04096,59.4,Administration,0.31,Medium
+M03048,59.6,Medical Technologist,0.31,Medium
+M03437,59.3,Registered Nurse,0.3,Medium
+M04127,60.2,Registered Practical Nurse,0.3,Medium
+M04644,59.7,Registered Nurse,0.3,Medium
+M04614,57.8,Management,0.3,Medium
+M02535,59.9,Registered Practical Nurse,0.3,Medium
+M00997,59.8,Allied Health Professional,0.29,Low
+M04542,59.2,Registered Nurse,0.29,Low
+M03691,60.1,Allied Health Professional,0.28,Low
+M00562,57.6,Management,0.28,Low
+M04087,59.3,Medical Technologist,0.28,Low
+M02334,59.0,Registered Nurse,0.27,Low
+M00818,59.5,Registered Practical Nurse,0.27,Low
+M01141,59.2,Medical Technologist,0.27,Low
+M03801,59.5,Registered Practical Nurse,0.27,Low
+M02591,59.5,Registered Practical Nurse,0.27,Low
+M02721,59.2,Personal Support Worker,0.26,Low
+M00725,58.9,Registered Nurse,0.26,Low
+M02576,59.3,Registered Nurse,0.26,Low
+M02534,59.4,Registered Practical Nurse,0.26,Low
+M01802,59.4,Medical Technologist,0.26,Low
+M02318,59.1,Medical Technologist,0.26,Low
+M02107,58.9,Administration,0.26,Low
+M00710,58.9,Registered Nurse,0.26,Low
+M03369,59.8,Registered Practical Nurse,0.26,Low
+M04601,58.9,Registered Nurse,0.26,Low
+M01830,58.9,Registered Nurse,0.26,Low
+M03112,59.8,Registered Practical Nurse,0.26,Low
+M00087,59.0,Personal Support Worker,0.25,Low
+M03364,59.3,Registered Practical Nurse,0.25,Low
+M00347,59.0,Medical Technologist,0.25,Low
+M02815,59.0,Personal Support Worker,0.25,Low
+M01750,58.8,Registered Nurse,0.25,Low
+M02181,59.0,Personal Support Worker,0.25,Low
+M03716,58.8,Registered Nurse,0.25,Low
+M02160,59.3,Personal Support Worker,0.24,Low
+M00436,59.2,Registered Practical Nurse,0.24,Low
+M04429,59.2,Medical Technologist,0.24,Low
+M03514,58.9,Personal Support Worker,0.24,Low
+M04251,59.2,Registered Practical Nurse,0.24,Low
+M02315,58.8,Medical Technologist,0.24,Low
+M02247,59.6,Registered Practical Nurse,0.24,Low
+M02921,58.7,Registered Nurse,0.24,Low
+M00576,58.7,Registered Nurse,0.24,Low
+M01277,58.6,Registered Nurse,0.23,Low
+M01917,58.8,Personal Support Worker,0.23,Low
+M02098,58.6,Administration,0.23,Low
+M02771,58.6,Registered Nurse,0.23,Low
+M03591,58.5,Registered Nurse,0.23,Low
+M03184,58.6,Registered Nurse,0.23,Low
+M03038,58.6,Administration,0.23,Low
+M02857,58.4,Registered Nurse,0.22,Low
+M01633,58.4,Registered Nurse,0.22,Low
+M02373,58.4,Registered Nurse,0.22,Low
+M03601,59.0,Allied Health Professional,0.22,Low
+M00078,59.3,Registered Practical Nurse,0.22,Low
+M02730,58.4,Registered Nurse,0.22,Low
+M02394,56.8,Management,0.21,Low
+M02527,58.9,Allied Health Professional,0.21,Low
+M02558,58.3,Registered Nurse,0.21,Low
+M03955,58.8,Registered Practical Nurse,0.21,Low
+M00487,58.3,Registered Nurse,0.21,Low
+M02461,58.3,Registered Nurse,0.21,Low
+M02777,58.3,Registered Nurse,0.21,Low
+M01978,59.3,Allied Health Professional,0.21,Low
+M00769,58.6,Registered Nurse,0.21,Low
+M04255,58.5,Administration,0.2,Low
+M04474,58.5,Personal Support Worker,0.2,Low
+M02956,58.7,Registered Practical Nurse,0.2,Low
+M04881,59.1,Registered Practical Nurse,0.2,Low
+M02526,58.5,Personal Support Worker,0.2,Low
+M00991,58.3,Medical Technologist,0.2,Low
+M02116,58.4,Administration,0.19,Low
+M03148,58.6,Registered Practical Nurse,0.19,Low
+M03330,58.4,Registered Nurse,0.19,Low
+M03016,58.7,Allied Health Professional,0.19,Low
+M04908,58.1,Registered Nurse,0.19,Low
+M00300,58.4,Administration,0.19,Low
+M04273,59.0,Registered Practical Nurse,0.19,Low
+M00654,58.6,Registered Practical Nurse,0.19,Low
+M02807,57.9,Administration,0.18,Low
+M01912,58.1,Personal Support Worker,0.18,Low
+M01087,58.5,Registered Practical Nurse,0.18,Low
+M04712,57.9,Registered Nurse,0.18,Low
+M02103,57.9,Administration,0.18,Low
+M00092,58.1,Medical Technologist,0.18,Low
+M03952,57.9,Registered Nurse,0.18,Low
+M00051,58.1,Personal Support Worker,0.18,Low
+M00660,57.9,Registered Nurse,0.18,Low
+M03672,58.9,Allied Health Professional,0.18,Low
+M03041,58.3,Registered Practical Nurse,0.17,Low
+M00498,56.2,Management,0.17,Low
+M02727,57.7,Registered Nurse,0.17,Low
+M03095,57.8,Registered Nurse,0.17,Low
+M00261,58.1,Registered Nurse,0.17,Low
+M00285,57.7,Registered Nurse,0.17,Low
+M01555,58.1,Registered Nurse,0.17,Low
+M03533,58.3,Registered Practical Nurse,0.17,Low
+M03576,56.2,Management,0.17,Low
+M04620,58.4,Personal Support Worker,0.17,Low
+M04456,58.3,Registered Practical Nurse,0.17,Low
+M01436,58.1,Medical Technologist,0.16,Low
+M02712,58.3,Personal Support Worker,0.16,Low
+M03502,57.9,Personal Support Worker,0.16,Low
+M02258,58.1,Registered Practical Nurse,0.16,Low
+M02256,58.0,Registered Nurse,0.16,Low
+M03141,57.6,Registered Nurse,0.16,Low
+M01083,58.2,Registered Practical Nurse,0.16,Low
+M04734,57.6,Registered Nurse,0.16,Low
+M02212,57.4,Administration,0.15,Low
+M02186,57.7,Personal Support Worker,0.15,Low
+M02131,58.0,Registered Practical Nurse,0.15,Low
+M00983,57.9,Administration,0.15,Low
+M01116,57.4,Registered Nurse,0.15,Low
+M01060,57.9,Registered Practical Nurse,0.15,Low
+M02359,57.5,Registered Nurse,0.15,Low
+M04549,58.0,Registered Practical Nurse,0.15,Low
+M01175,57.8,Registered Nurse,0.15,Low
+M04628,57.8,Registered Nurse,0.15,Low
+M01253,58.1,Allied Health Professional,0.15,Low
+M04257,57.5,Registered Nurse,0.15,Low
+M01203,57.5,Registered Nurse,0.15,Low
+M04950,57.7,Personal Support Worker,0.15,Low
+M04820,57.6,Medical Technologist,0.15,Low
+M04877,58.5,Allied Health Professional,0.15,Low
+M00378,57.5,Registered Nurse,0.15,Low
+M00314,57.2,Registered Nurse,0.14,Low
+M02979,55.8,Management,0.14,Low
+M04720,57.3,Administration,0.14,Low
+M03946,57.3,Registered Nurse,0.14,Low
+M04381,57.8,Registered Practical Nurse,0.14,Low
+M01161,57.5,Medical Technologist,0.14,Low
+M02848,57.7,Registered Nurse,0.14,Low
+M03433,57.7,Registered Nurse,0.14,Low
+M03980,57.3,Administration,0.14,Low
+M03781,55.7,Management,0.14,Low
+M01603,57.7,Administration,0.14,Low
+M01765,58.2,Registered Practical Nurse,0.14,Low
+M00696,55.8,Management,0.14,Low
+M00131,57.7,Registered Nurse,0.14,Low
+M00164,57.8,Registered Practical Nurse,0.14,Low
+M00916,57.8,Registered Practical Nurse,0.14,Low
+M00619,57.1,Registered Nurse,0.13,Low
+M01215,57.0,Registered Nurse,0.13,Low
+M02659,57.0,Registered Nurse,0.13,Low
+M01487,57.1,Registered Nurse,0.13,Low
+M04698,57.7,Registered Practical Nurse,0.13,Low
+M02032,57.7,Registered Practical Nurse,0.13,Low
+M04922,57.8,Personal Support Worker,0.13,Low
+M01685,57.6,Registered Practical Nurse,0.13,Low
+M04559,57.5,Registered Nurse,0.13,Low
+M03740,57.7,Medical Technologist,0.13,Low
+M04272,57.1,Administration,0.13,Low
+M02317,57.4,Registered Practical Nurse,0.12,Low
+M03257,57.4,Registered Practical Nurse,0.12,Low
+M03530,57.3,Registered Nurse,0.12,Low
+M00313,57.4,Medical Technologist,0.12,Low
+M00375,57.1,Personal Support Worker,0.12,Low
+M02280,57.6,Personal Support Worker,0.12,Low
+M03841,57.3,Administration,0.12,Low
+M01946,56.8,Registered Nurse,0.12,Low
+M01430,57.5,Personal Support Worker,0.12,Low
+M03823,57.4,Registered Practical Nurse,0.12,Low
+M03967,56.8,Registered Nurse,0.12,Low
+M01139,56.8,Registered Nurse,0.12,Low
+M02490,57.2,Personal Support Worker,0.12,Low
+M01973,57.6,Allied Health Professional,0.12,Low
+M02296,57.2,Registered Nurse,0.12,Low
+M02027,56.7,Registered Nurse,0.11,Low
+M01343,56.8,Administration,0.11,Low
+M02424,57.0,Administration,0.11,Low
+M00186,57.7,Allied Health Professional,0.11,Low
+M04600,56.6,Registered Nurse,0.11,Low
+M03654,57.0,Personal Support Worker,0.11,Low
+M01947,57.2,Personal Support Worker,0.11,Low
+M03375,56.6,Administration,0.11,Low
+M01612,57.6,Registered Practical Nurse,0.11,Low
+M00388,57.2,Registered Practical Nurse,0.11,Low
+M01049,56.9,Personal Support Worker,0.11,Low
+M04364,57.0,Personal Support Worker,0.11,Low
+M04201,56.8,Administration,0.11,Low
+M02749,57.2,Registered Practical Nurse,0.11,Low
+M00810,56.9,Medical Technologist,0.11,Low
+M03583,57.3,Registered Practical Nurse,0.11,Low
+M03658,56.8,Personal Support Worker,0.1,Low
+M03403,54.9,Management,0.1,Low
+M04795,56.7,Registered Nurse,0.1,Low
+M02322,56.7,Registered Nurse,0.1,Low
+M00509,57.1,Allied Health Professional,0.1,Low
+M04848,56.9,Registered Nurse,0.1,Low
+M02358,57.1,Personal Support Worker,0.1,Low
+M03945,56.8,Registered Nurse,0.1,Low
+M04778,57.0,Registered Practical Nurse,0.1,Low
+M04771,57.1,Registered Practical Nurse,0.1,Low
+M04899,56.4,Registered Nurse,0.1,Low
+M02635,56.7,Personal Support Worker,0.1,Low
+M00006,56.6,Medical Technologist,0.1,Low
+M01196,56.7,Medical Technologist,0.1,Low
+M04314,56.7,Personal Support Worker,0.1,Low
+M02235,56.7,Medical Technologist,0.1,Low
+M02632,56.4,Registered Nurse,0.1,Low
+M00766,56.7,Personal Support Worker,0.1,Low
+M00894,56.4,Registered Nurse,0.1,Low
+M04651,56.4,Registered Nurse,0.1,Low
+M01326,56.9,Registered Practical Nurse,0.1,Low
+M02418,56.4,Registered Nurse,0.1,Low
+M03194,56.4,Administration,0.1,Low
+M01045,56.8,Personal Support Worker,0.1,Low
+M01549,56.9,Registered Practical Nurse,0.1,Low
+M04189,56.5,Registered Nurse,0.1,Low
+M00548,56.5,Administration,0.1,Low
+M04779,56.5,Administration,0.09,Low
+M02383,56.8,Allied Health Professional,0.09,Low
+M03336,56.8,Registered Practical Nurse,0.09,Low
+M03463,56.1,Registered Nurse,0.09,Low
+M04511,54.6,Management,0.09,Low
+M04452,56.3,Medical Technologist,0.09,Low
+M04513,56.3,Medical Technologist,0.09,Low
+M00235,56.2,Registered Nurse,0.09,Low
+M00232,56.1,Registered Nurse,0.09,Low
+M00735,56.5,Medical Technologist,0.09,Low
+M00746,57.2,Registered Practical Nurse,0.09,Low
+M04294,56.2,Registered Nurse,0.09,Low
+M02149,56.4,Personal Support Worker,0.09,Low
+M01216,56.9,Allied Health Professional,0.09,Low
+M00732,56.8,Registered Practical Nurse,0.09,Low
+M02378,57.3,Allied Health Professional,0.09,Low
+M01915,56.1,Registered Nurse,0.09,Low
+M03265,56.1,Registered Nurse,0.09,Low
+M01683,56.8,Personal Support Worker,0.09,Low
+M04353,56.6,Personal Support Worker,0.09,Low
+M01504,56.7,Registered Practical Nurse,0.09,Low
+M00715,56.2,Registered Nurse,0.09,Low
+M04224,56.4,Personal Support Worker,0.09,Low
+M04716,56.9,Allied Health Professional,0.09,Low
+M01109,56.1,Registered Nurse,0.09,Low
+M04661,56.1,Registered Nurse,0.09,Low
+M01193,57.3,Allied Health Professional,0.09,Low
+M03687,57.0,Registered Practical Nurse,0.09,Low
+M03785,56.2,Registered Nurse,0.09,Low
+M03651,56.3,Registered Nurse,0.09,Low
+M00265,56.1,Registered Nurse,0.09,Low
+M00018,56.0,Registered Nurse,0.08,Low
+M04537,56.0,Medical Technologist,0.08,Low
+M04939,56.3,Personal Support Worker,0.08,Low
+M02188,55.9,Administration,0.08,Low
+M02458,56.0,Registered Nurse,0.08,Low
+M02595,55.8,Registered Nurse,0.08,Low
+M01441,56.6,Personal Support Worker,0.08,Low
+M02554,56.0,Registered Nurse,0.08,Low
+M02645,56.2,Medical Technologist,0.08,Low
+M02638,56.9,Allied Health Professional,0.08,Low
+M04366,56.0,Registered Nurse,0.08,Low
+M04070,56.1,Administration,0.08,Low
+M01539,56.4,Registered Practical Nurse,0.08,Low
+M01934,55.9,Registered Nurse,0.08,Low
+M02872,56.6,Allied Health Professional,0.08,Low
+M02854,56.0,Registered Nurse,0.08,Low
+M04030,56.4,Registered Practical Nurse,0.08,Low
+M04021,56.0,Registered Nurse,0.08,Low
+M00960,54.5,Management,0.08,Low
+M02987,56.5,Registered Practical Nurse,0.08,Low
+M04555,56.1,Medical Technologist,0.08,Low
+M01928,55.8,Registered Nurse,0.08,Low
+M03136,56.0,Registered Nurse,0.08,Low
+M01758,56.6,Registered Practical Nurse,0.08,Low
+M00434,56.2,Personal Support Worker,0.08,Low
+M00458,56.2,Registered Nurse,0.08,Low
+M03299,56.0,Registered Nurse,0.08,Low
+M04874,56.5,Registered Practical Nurse,0.08,Low
+M00091,55.9,Registered Nurse,0.08,Low
+M01012,56.1,Registered Practical Nurse,0.07,Low
+M04948,56.3,Personal Support Worker,0.07,Low
+M04954,55.8,Medical Technologist,0.07,Low
+M02306,55.8,Medical Technologist,0.07,Low
+M00920,55.6,Registered Nurse,0.07,Low
+M03349,55.5,Registered Nurse,0.07,Low
+M01901,55.8,Personal Support Worker,0.07,Low
+M02262,56.0,Personal Support Worker,0.07,Low
+M02281,55.5,Registered Nurse,0.07,Low
+M01706,56.5,Allied Health Professional,0.07,Low
+M01722,55.5,Registered Nurse,0.07,Low
+M00359,55.5,Registered Nurse,0.07,Low
+M01927,56.1,Allied Health Professional,0.07,Low
+M03717,55.9,Registered Nurse,0.07,Low
+M03754,55.9,Personal Support Worker,0.07,Low
+M02505,55.7,Registered Nurse,0.07,Low
+M00077,55.5,Registered Nurse,0.07,Low
+M04230,55.9,Personal Support Worker,0.07,Low
+M00962,55.8,Personal Support Worker,0.07,Low
+M04300,56.1,Registered Practical Nurse,0.07,Low
+M02706,55.7,Medical Technologist,0.07,Low
+M04298,55.5,Registered Nurse,0.07,Low
+M00540,55.6,Registered Nurse,0.07,Low
+M02000,55.6,Administration,0.07,Low
+M01187,55.9,Personal Support Worker,0.07,Low
+M02497,55.6,Administration,0.07,Low
+M00720,56.0,Personal Support Worker,0.07,Low
+M00206,56.2,Allied Health Professional,0.07,Low
+M02594,55.5,Registered Nurse,0.07,Low
+M00676,55.5,Registered Nurse,0.07,Low
+M02947,55.9,Allied Health Professional,0.06,Low
+M03653,55.2,Registered Nurse,0.06,Low
+M03105,55.5,Medical Technologist,0.06,Low
+M00369,55.1,Registered Nurse,0.06,Low
+M01357,55.7,Registered Practical Nurse,0.06,Low
+M00201,55.4,Registered Nurse,0.06,Low
+M00243,55.6,Personal Support Worker,0.06,Low
+M02155,55.7,Registered Practical Nurse,0.06,Low
+M00213,55.2,Registered Nurse,0.06,Low
+M02572,55.9,Registered Practical Nurse,0.06,Low
+M04310,55.4,Administration,0.06,Low
+M04139,53.7,Management,0.06,Low
+M02930,55.3,Registered Nurse,0.06,Low
+M03835,55.2,Registered Nurse,0.06,Low
+M02897,55.1,Registered Nurse,0.06,Low
+M03701,55.3,Registered Nurse,0.06,Low
+M02985,56.0,Personal Support Worker,0.06,Low
+M02326,54.1,Management,0.06,Low
+M04782,55.6,Registered Nurse,0.06,Low
+M03446,55.3,Registered Nurse,0.06,Low
+M00499,55.2,Registered Nurse,0.06,Low
+M03627,56.2,Registered Practical Nurse,0.06,Low
+M03669,55.4,Personal Support Worker,0.06,Low
+M04822,55.7,Personal Support Worker,0.06,Low
+M03171,55.6,Medical Technologist,0.06,Low
+M02360,55.4,Personal Support Worker,0.06,Low
+M01886,55.1,Registered Nurse,0.06,Low
+M02501,55.4,Registered Nurse,0.06,Low
+M02538,55.7,Registered Practical Nurse,0.06,Low
+M02471,56.0,Registered Practical Nurse,0.06,Low
+M00017,56.0,Allied Health Professional,0.06,Low
+M00007,55.7,Registered Practical Nurse,0.06,Low
+M01217,55.5,Registered Nurse,0.06,Low
+M02603,55.8,Registered Practical Nurse,0.06,Low
+M04471,55.4,Registered Nurse,0.06,Low
+M01452,56.3,Registered Practical Nurse,0.06,Low
+M04033,55.6,Personal Support Worker,0.06,Low
+M02675,55.6,Personal Support Worker,0.06,Low
+M04697,55.7,Registered Practical Nurse,0.06,Low
+M02808,55.8,Registered Nurse,0.06,Low
+M04656,55.9,Allied Health Professional,0.06,Low
+M03903,55.2,Registered Nurse,0.06,Low
+M02778,55.1,Registered Nurse,0.06,Low
+M02377,55.3,Allied Health Professional,0.05,Low
+M02389,55.4,Personal Support Worker,0.05,Low
+M03225,54.7,Administration,0.05,Low
+M02269,55.4,Registered Nurse,0.05,Low
+M03578,55.4,Registered Nurse,0.05,Low
+M03581,55.7,Allied Health Professional,0.05,Low
+M03216,54.9,Administration,0.05,Low
+M00829,54.8,Registered Nurse,0.05,Low
+M00506,55.6,Registered Practical Nurse,0.05,Low
+M00767,54.7,Registered Nurse,0.05,Low
+M03392,55.4,Allied Health Professional,0.05,Low
+M03085,55.0,Personal Support Worker,0.05,Low
+M00497,55.7,Allied Health Professional,0.05,Low
+M01988,54.9,Registered Nurse,0.05,Low
+M00854,55.2,Registered Nurse,0.05,Low
+M01704,54.9,Registered Nurse,0.05,Low
+M03833,55.1,Registered Nurse,0.05,Low
+M02009,54.8,Administration,0.05,Low
+M02911,55.3,Medical Technologist,0.05,Low
+M02899,55.0,Registered Nurse,0.05,Low
+M03582,53.3,Management,0.05,Low
+M01559,54.9,Administration,0.05,Low
+M03699,55.5,Registered Practical Nurse,0.05,Low
+M04110,55.0,Registered Nurse,0.05,Low
+M02002,53.5,Management,0.05,Low
+M04582,54.9,Registered Nurse,0.05,Low
+M01053,55.6,Registered Practical Nurse,0.05,Low
+M01071,55.0,Registered Nurse,0.05,Low
+M03957,55.3,Allied Health Professional,0.05,Low
+M03917,54.8,Registered Nurse,0.05,Low
+M01535,56.0,Allied Health Professional,0.05,Low
+M01522,55.0,Personal Support Worker,0.05,Low
+M04287,54.9,Administration,0.05,Low
+M02657,53.5,Management,0.05,Low
+M02713,55.0,Registered Nurse,0.05,Low
+M00929,55.0,Personal Support Worker,0.05,Low
+M04178,55.5,Allied Health Professional,0.05,Low
+M04186,55.2,Personal Support Worker,0.05,Low
+M01439,55.4,Allied Health Professional,0.05,Low
+M00640,53.8,Management,0.05,Low
+M04432,55.3,Registered Practical Nurse,0.05,Low
+M00199,55.0,Registered Nurse,0.05,Low
+M02633,55.7,Registered Practical Nurse,0.05,Low
+M02242,55.7,Allied Health Professional,0.05,Low
+M02233,55.0,Registered Nurse,0.05,Low
+M02440,54.7,Administration,0.05,Low
+M02422,55.3,Registered Practical Nurse,0.05,Low
+M04989,55.4,Registered Practical Nurse,0.05,Low
+M00241,54.4,Administration,0.04,Low
+M00689,54.2,Registered Nurse,0.04,Low
+M01240,54.4,Registered Nurse,0.04,Low
+M01315,54.6,Administration,0.04,Low
+M01331,54.9,Administration,0.04,Low
+M04235,54.7,Registered Practical Nurse,0.04,Low
+M04135,54.6,Administration,0.04,Low
+M04002,54.2,Administration,0.04,Low
+M03875,54.6,Personal Support Worker,0.04,Low
+M03883,54.9,Registered Practical Nurse,0.04,Low
+M03871,54.9,Registered Nurse,0.04,Low
+M01488,54.9,Registered Nurse,0.04,Low
+M00315,54.8,Medical Technologist,0.04,Low
+M01643,54.1,Registered Nurse,0.04,Low
+M03628,54.9,Personal Support Worker,0.04,Low
+M03694,54.6,Personal Support Worker,0.04,Low
+M03499,54.8,Personal Support Worker,0.04,Low
+M03503,54.2,Registered Nurse,0.04,Low
+M03506,54.7,Registered Practical Nurse,0.04,Low
+M02259,55.2,Allied Health Professional,0.04,Low
+M02282,54.3,Administration,0.04,Low
+M02285,54.9,Allied Health Professional,0.04,Low
+M03386,55.0,Registered Practical Nurse,0.04,Low
+M03422,54.5,Administration,0.04,Low
+M03455,55.2,Registered Practical Nurse,0.04,Low
+M00468,54.6,Registered Nurse,0.04,Low
+M00429,54.5,Registered Nurse,0.04,Low
+M00439,55.1,Registered Practical Nurse,0.04,Low
+M01794,54.4,Registered Nurse,0.04,Low
+M01812,55.3,Registered Practical Nurse,0.04,Low
+M03089,54.6,Personal Support Worker,0.04,Low
+M03023,54.5,Personal Support Worker,0.04,Low
+M03063,54.4,Administration,0.04,Low
+M01931,54.4,Registered Nurse,0.04,Low
+M02420,54.3,Registered Nurse,0.04,Low
+M02437,54.6,Registered Nurse,0.04,Low
+M02179,54.6,Administration,0.04,Low
+M01058,54.6,Registered Nurse,0.04,Low
+M01077,54.6,Administration,0.04,Low
+M01104,54.4,Registered Nurse,0.04,Low
+M00478,54.8,Personal Support Worker,0.04,Low
+M00515,54.2,Registered Nurse,0.04,Low
+M01966,54.7,Medical Technologist,0.04,Low
+M02896,54.2,Registered Nurse,0.04,Low
+M02900,54.4,Registered Nurse,0.04,Low
+M02041,54.2,Registered Nurse,0.04,Low
+M02786,54.7,Administration,0.04,Low
+M02797,55.0,Registered Practical Nurse,0.04,Low
+M00524,54.3,Registered Nurse,0.04,Low
+M02238,54.3,Medical Technologist,0.04,Low
+M02540,54.6,Administration,0.04,Low
+M02564,55.2,Allied Health Professional,0.04,Low
+M00577,54.7,Medical Technologist,0.04,Low
+M00706,55.0,Registered Practical Nurse,0.04,Low
+M02697,53.0,Management,0.04,Low
+M02768,54.7,Registered Nurse,0.04,Low
+M02140,55.5,Allied Health Professional,0.04,Low
+M04982,54.9,Personal Support Worker,0.04,Low
+M04763,54.9,Registered Practical Nurse,0.04,Low
+M04947,55.1,Registered Practical Nurse,0.04,Low
+M00045,54.1,Medical Technologist,0.03,Low
+M02289,52.1,Management,0.03,Low
+M04931,54.4,Registered Nurse,0.03,Low
+M00616,53.9,Personal Support Worker,0.03,Low
+M00617,53.8,Personal Support Worker,0.03,Low
+M04735,54.4,Personal Support Worker,0.03,Low
+M00652,54.2,Personal Support Worker,0.03,Low
+M00730,53.9,Registered Nurse,0.03,Low
+M02585,53.6,Registered Nurse,0.03,Low
+M00599,54.5,Allied Health Professional,0.03,Low
+M02611,54.3,Registered Practical Nurse,0.03,Low
+M04904,54.2,Personal Support Worker,0.03,Low
+M00637,53.9,Registered Nurse,0.03,Low
+M04890,54.1,Registered Nurse,0.03,Low
+M00759,53.9,Personal Support Worker,0.03,Low
+M04199,53.5,Registered Nurse,0.03,Low
+M00293,53.5,Registered Nurse,0.03,Low
+M04162,53.5,Registered Nurse,0.03,Low
+M04325,54.4,Registered Practical Nurse,0.03,Low
+M02772,53.4,Registered Nurse,0.03,Low
+M04594,54.7,Allied Health Professional,0.03,Low
+M04663,53.6,Registered Nurse,0.03,Low
+M02761,54.7,Allied Health Professional,0.03,Low
+M02125,53.7,Medical Technologist,0.03,Low
+M04258,53.7,Registered Nurse,0.03,Low
+M02077,53.6,Administration,0.03,Low
+M02084,53.5,Registered Nurse,0.03,Low
+M01375,54.1,Registered Practical Nurse,0.03,Low
+M01370,54.5,Allied Health Professional,0.03,Low
+M04424,54.7,Allied Health Professional,0.03,Low
+M01391,54.0,Personal Support Worker,0.03,Low
+M01470,54.0,Registered Practical Nurse,0.03,Low
+M01466,53.9,Personal Support Worker,0.03,Low
+M04151,53.7,Registered Nurse,0.03,Low
+M00541,54.4,Allied Health Professional,0.03,Low
+M02481,54.0,Allied Health Professional,0.03,Low
+M00947,54.0,Medical Technologist,0.03,Low
+M00928,53.8,Registered Nurse,0.03,Low
+M01471,53.7,Registered Nurse,0.03,Low
+M02374,52.3,Management,0.03,Low
+M04680,54.2,Registered Practical Nurse,0.03,Low
+M01103,54.7,Allied Health Professional,0.03,Low
+M00354,54.0,Registered Nurse,0.03,Low
+M01099,53.7,Registered Nurse,0.03,Low
+M02398,53.9,Medical Technologist,0.03,Low
+M00863,54.0,Registered Practical Nurse,0.03,Low
+M03002,53.9,Personal Support Worker,0.03,Low
+M03205,54.4,Registered Practical Nurse,0.03,Low
+M03218,54.7,Allied Health Professional,0.03,Low
+M03233,54.5,Registered Practical Nurse,0.03,Low
+M03381,54.2,Registered Practical Nurse,0.03,Low
+M03479,54.2,Registered Practical Nurse,0.03,Low
+M01780,53.7,Administration,0.03,Low
+M04747,53.7,Personal Support Worker,0.03,Low
+M00433,52.3,Management,0.03,Low
+M03575,53.6,Registered Nurse,0.03,Low
+M03605,54.5,Personal Support Worker,0.03,Low
+M03279,54.0,Personal Support Worker,0.03,Low
+M02329,54.3,Registered Nurse,0.03,Low
+M03493,54.5,Registered Practical Nurse,0.03,Low
+M03520,53.8,Registered Nurse,0.03,Low
+M02349,53.5,Administration,0.03,Low
+M00800,53.7,Personal Support Worker,0.03,Low
+M03652,54.2,Registered Nurse,0.03,Low
+M03702,53.6,Registered Nurse,0.03,Low
+M00379,54.0,Personal Support Worker,0.03,Low
+M00381,54.2,Allied Health Professional,0.03,Low
+M01662,53.8,Administration,0.03,Low
+M01925,54.5,Registered Practical Nurse,0.03,Low
+M01918,53.7,Medical Technologist,0.03,Low
+M03170,54.5,Registered Practical Nurse,0.03,Low
+M02879,54.6,Allied Health Professional,0.03,Low
+M02888,53.4,Registered Nurse,0.03,Low
+M02906,54.5,Personal Support Worker,0.03,Low
+M02913,54.0,Administration,0.03,Low
+M02825,53.8,Registered Nurse,0.03,Low
+M04088,53.6,Registered Nurse,0.03,Low
+M04080,53.8,Registered Nurse,0.03,Low
+M04082,54.2,Medical Technologist,0.03,Low
+M03822,53.5,Registered Nurse,0.03,Low
+M00324,52.1,Management,0.03,Low
+M03930,52.1,Management,0.03,Low
+M03922,54.0,Medical Technologist,0.03,Low
+M02961,53.8,Medical Technologist,0.03,Low
+M01935,54.2,Administration,0.03,Low
+M01949,53.6,Administration,0.03,Low
+M02945,54.4,Allied Health Professional,0.03,Low
+M04896,53.6,Personal Support Worker,0.02,Low
+M04969,53.0,Registered Nurse,0.02,Low
+M04998,53.4,Registered Nurse,0.02,Low
+M00065,52.7,Administration,0.02,Low
+M02302,51.2,Management,0.02,Low
+M02313,52.8,Registered Nurse,0.02,Low
+M00691,53.3,Personal Support Worker,0.02,Low
+M00752,52.7,Registered Nurse,0.02,Low
+M00951,53.6,Allied Health Professional,0.02,Low
+M00945,53.3,Allied Health Professional,0.02,Low
+M02050,53.3,Registered Nurse,0.02,Low
+M02033,53.7,Registered Practical Nurse,0.02,Low
+M02017,52.8,Registered Nurse,0.02,Low
+M02018,53.7,Registered Nurse,0.02,Low
+M02826,51.1,Management,0.02,Low
+M00933,53.3,Registered Practical Nurse,0.02,Low
+M00281,53.6,Personal Support Worker,0.02,Low
+M00930,53.1,Allied Health Professional,0.02,Low
+M00271,53.9,Allied Health Professional,0.02,Low
+M04208,53.2,Registered Practical Nurse,0.02,Low
+M02544,53.3,Medical Technologist,0.02,Low
+M02500,53.6,Registered Practical Nurse,0.02,Low
+M02457,52.9,Registered Nurse,0.02,Low
+M04170,53.9,Personal Support Worker,0.02,Low
+M04171,53.2,Personal Support Worker,0.02,Low
+M04190,53.2,Personal Support Worker,0.02,Low
+M04104,53.7,Personal Support Worker,0.02,Low
+M02236,51.1,Management,0.02,Low
+M01440,53.8,Allied Health Professional,0.02,Low
+M04519,53.0,Personal Support Worker,0.02,Low
+M04521,52.6,Registered Nurse,0.02,Low
+M02085,53.6,Medical Technologist,0.02,Low
+M00574,53.5,Personal Support Worker,0.02,Low
+M04592,53.7,Registered Nurse,0.02,Low
+M01151,53.2,Personal Support Worker,0.02,Low
+M04354,52.3,Administration,0.02,Low
+M02739,52.9,Allied Health Professional,0.02,Low
+M02735,53.0,Allied Health Professional,0.02,Low
+M02707,53.0,Registered Nurse,0.02,Low
+M04671,52.5,Registered Nurse,0.02,Low
+M04440,54.3,Allied Health Professional,0.02,Low
+M01242,53.2,Registered Nurse,0.02,Low
+M01328,52.9,Personal Support Worker,0.02,Low
+M04444,53.4,Registered Practical Nurse,0.02,Low
+M01339,53.3,Registered Nurse,0.02,Low
+M01348,53.1,Medical Technologist,0.02,Low
+M02660,52.8,Registered Nurse,0.02,Low
+M01462,52.8,Registered Practical Nurse,0.02,Low
+M00992,53.0,Registered Nurse,0.02,Low
+M04918,53.3,Administration,0.02,Low
+M04893,52.6,Registered Nurse,0.02,Low
+M02604,52.8,Personal Support Worker,0.02,Low
+M00169,53.9,Allied Health Professional,0.02,Low
+M00187,53.0,Registered Nurse,0.02,Low
+M00211,53.2,Registered Nurse,0.02,Low
+M01232,53.0,Registered Nurse,0.02,Low
+M02984,53.0,Registered Practical Nurse,0.02,Low
+M02954,52.4,Registered Nurse,0.02,Low
+M02957,51.6,Management,0.02,Low
+M02960,53.5,Registered Nurse,0.02,Low
+M03937,52.8,Registered Nurse,0.02,Low
+M03948,52.8,Administration,0.02,Low
+M03970,53.8,Registered Practical Nurse,0.02,Low
+M03984,50.8,Management,0.02,Low
+M02928,53.0,Registered Nurse,0.02,Low
+M02918,52.6,Registered Nurse,0.02,Low
+M02891,52.5,Administration,0.02,Low
+M04074,53.4,Registered Practical Nurse,0.02,Low
+M04069,52.8,Personal Support Worker,0.02,Low
+M04094,52.8,Administration,0.02,Low
+M02878,52.7,Administration,0.02,Low
+M04097,53.3,Medical Technologist,0.02,Low
+M04691,53.3,Administration,0.02,Low
+M02213,52.6,Medical Technologist,0.02,Low
+M02193,52.5,Administration,0.02,Low
+M02189,53.5,Registered Practical Nurse,0.02,Low
+M02443,51.4,Management,0.02,Low
+M01577,53.3,Registered Nurse,0.02,Low
+M01595,50.8,Management,0.02,Low
+M02288,53.0,Registered Nurse,0.02,Low
+M01972,52.9,Registered Nurse,0.02,Low
+M02996,53.4,Medical Technologist,0.02,Low
+M03008,52.3,Registered Nurse,0.02,Low
+M00336,53.0,Registered Nurse,0.02,Low
+M03742,52.5,Administration,0.02,Low
+M00341,53.5,Personal Support Worker,0.02,Low
+M04715,53.6,Personal Support Worker,0.02,Low
+M03743,52.7,Registered Nurse,0.02,Low
+M03825,52.5,Administration,0.02,Low
+M03860,52.8,Registered Nurse,0.02,Low
+M03868,52.4,Registered Nurse,0.02,Low
+M00309,53.0,Administration,0.02,Low
+M03806,52.9,Registered Nurse,0.02,Low
+M01489,51.0,Management,0.02,Low
+M03916,53.0,Administration,0.02,Low
+M03912,52.3,Registered Nurse,0.02,Low
+M00832,51.1,Management,0.02,Low
+M00770,53.5,Registered Practical Nurse,0.02,Low
+M03050,52.4,Registered Nurse,0.02,Low
+M03061,53.0,Registered Nurse,0.02,Low
+M00520,53.0,Registered Nurse,0.02,Low
+M00385,52.7,Registered Nurse,0.02,Low
+M01674,53.7,Medical Technologist,0.02,Low
+M01656,53.2,Registered Practical Nurse,0.02,Low
+M00798,52.0,Management,0.02,Low
+M03278,53.8,Registered Practical Nurse,0.02,Low
+M00919,53.8,Personal Support Worker,0.02,Low
+M00925,53.0,Administration,0.02,Low
+M03504,52.9,Personal Support Worker,0.02,Low
+M03500,53.2,Personal Support Worker,0.02,Low
+M00838,53.1,Personal Support Worker,0.02,Low
+M03559,53.6,Personal Support Worker,0.02,Low
+M00843,53.6,Medical Technologist,0.02,Low
+M03538,52.7,Administration,0.02,Low
+M03448,53.0,Medical Technologist,0.02,Low
+M03399,53.0,Registered Nurse,0.02,Low
+M02276,51.5,Management,0.02,Low
+M01696,53.5,Registered Practical Nurse,0.02,Low
+M02355,52.7,Registered Nurse,0.02,Low
+M02272,53.8,Allied Health Professional,0.02,Low
+M03191,53.0,Personal Support Worker,0.02,Low
+M01854,52.5,Registered Nurse,0.02,Low
+M01847,52.5,Registered Nurse,0.02,Low
+M01788,53.0,Registered Practical Nurse,0.02,Low
+M01898,53.3,Registered Nurse,0.02,Low
+M01876,53.6,Personal Support Worker,0.02,Low
+M03217,52.3,Registered Nurse,0.02,Low
+M00467,52.7,Medical Technologist,0.02,Low
+M00417,52.3,Registered Nurse,0.02,Low
+M03283,52.6,Personal Support Worker,0.02,Low
+M04574,53.3,Allied Health Professional,0.02,Low
+M00419,52.5,Administration,0.02,Low
+M04589,52.6,Administration,0.02,Low
+M01120,52.6,Administration,0.02,Low
+M01016,53.5,Personal Support Worker,0.02,Low
+M04829,53.2,Registered Practical Nurse,0.02,Low
+M00001,51.1,Allied Health Professional,0.01,Low
+M04961,50.5,Management,0.01,Low
+M04957,51.2,Personal Support Worker,0.01,Low
+M04944,50.0,Administration,0.01,Low
+M04814,51.5,Administration,0.01,Low
+M04803,51.9,Registered Nurse,0.01,Low
+M04799,50.4,Registered Nurse,0.01,Low
+M04796,51.8,Registered Nurse,0.01,Low
+M04760,50.3,Registered Nurse,0.01,Low
+M04857,52.0,Registered Practical Nurse,0.01,Low
+M04816,50.9,Personal Support Worker,0.01,Low
+M01037,51.5,Registered Practical Nurse,0.01,Low
+M01019,51.5,Personal Support Worker,0.01,Low
+M01007,50.8,Administration,0.01,Low
+M04741,50.9,Allied Health Professional,0.01,Low
+M01127,51.6,Registered Practical Nurse,0.01,Low
+M00622,51.8,Personal Support Worker,0.01,Low
+M02139,50.2,Registered Nurse,0.01,Low
+M02143,51.2,Allied Health Professional,0.01,Low
+M04886,51.7,Registered Nurse,0.01,Low
+M04914,50.3,Registered Nurse,0.01,Low
+M00633,52.3,Registered Nurse,0.01,Low
+M02577,51.3,Registered Nurse,0.01,Low
+M02578,50.8,Allied Health Professional,0.01,Low
+M02580,50.3,Registered Nurse,0.01,Low
+M02581,51.0,Allied Health Professional,0.01,Low
+M02602,51.4,Medical Technologist,0.01,Low
+M02607,52.4,Allied Health Professional,0.01,Low
+M02625,51.6,Registered Nurse,0.01,Low
+M00600,51.6,Registered Practical Nurse,0.01,Low
+M01883,50.7,Personal Support Worker,0.01,Low
+M00442,50.4,Registered Nurse,0.01,Low
+M00447,50.2,Registered Nurse,0.01,Low
+M01806,51.0,Registered Nurse,0.01,Low
+M03199,50.7,Administration,0.01,Low
+M03201,51.8,Administration,0.01,Low
+M03213,50.1,Registered Nurse,0.01,Low
+M03224,50.6,Registered Nurse,0.01,Low
+M03234,52.1,Medical Technologist,0.01,Low
+M03240,50.1,Registered Nurse,0.01,Low
+M00449,51.1,Registered Practical Nurse,0.01,Low
+M03301,52.6,Registered Practical Nurse,0.01,Low
+M03321,51.9,Personal Support Worker,0.01,Low
+M03333,51.2,Registered Nurse,0.01,Low
+M03360,51.2,Administration,0.01,Low
+M03370,50.6,Registered Nurse,0.01,Low
+M02260,52.8,Allied Health Professional,0.01,Low
+M02270,50.8,Medical Technologist,0.01,Low
+M02273,51.6,Registered Nurse,0.01,Low
+M04919,50.6,Registered Nurse,0.01,Low
+M01711,51.2,Medical Technologist,0.01,Low
+M01718,50.4,Administration,0.01,Low
+M01720,50.9,Registered Nurse,0.01,Low
+M03395,50.3,Administration,0.01,Low
+M03398,52.1,Registered Nurse,0.01,Low
+M03401,51.9,Personal Support Worker,0.01,Low
+M03406,50.8,Personal Support Worker,0.01,Low
+M03421,51.5,Registered Nurse,0.01,Low
+M03426,50.2,Registered Nurse,0.01,Low
+M03436,50.6,Registered Nurse,0.01,Low
+M03477,52.0,Registered Nurse,0.01,Low
+M01871,52.2,Registered Nurse,0.01,Low
+M02320,52.1,Personal Support Worker,0.01,Low
+M03246,50.4,Management,0.01,Low
+M03270,50.9,Registered Nurse,0.01,Low
+M03280,51.4,Registered Nurse,0.01,Low
+M00772,52.2,Registered Nurse,0.01,Low
+M00804,51.4,Personal Support Worker,0.01,Low
+M03074,50.8,Medical Technologist,0.01,Low
+M03094,51.9,Registered Practical Nurse,0.01,Low
+M03118,51.5,Personal Support Worker,0.01,Low
+M03122,50.6,Allied Health Professional,0.01,Low
+M03126,51.4,Registered Nurse,0.01,Low
+M03153,50.9,Registered Nurse,0.01,Low
+M03155,50.5,Registered Practical Nurse,0.01,Low
+M02335,52.5,Registered Practical Nurse,0.01,Low
+M02344,51.5,Registered Nurse,0.01,Low
+M02254,51.9,Registered Practical Nurse,0.01,Low
+M01680,50.7,Administration,0.01,Low
+M01692,50.8,Registered Nurse,0.01,Low
+M01741,50.1,Registered Nurse,0.01,Low
+M03509,50.1,Registered Nurse,0.01,Low
+M03526,50.5,Registered Nurse,0.01,Low
+M03529,52.1,Personal Support Worker,0.01,Low
+M03541,51.8,Registered Nurse,0.01,Low
+M03542,51.1,Registered Nurse,0.01,Low
+M03553,50.7,Personal Support Worker,0.01,Low
+M03554,51.7,Registered Nurse,0.01,Low
+M03572,51.5,Personal Support Worker,0.01,Low
+M03596,51.8,Registered Nurse,0.01,Low
+M00358,51.3,Medical Technologist,0.01,Low
+M03480,52.0,Personal Support Worker,0.01,Low
+M03490,51.5,Registered Nurse,0.01,Low
+M00905,52.5,Registered Nurse,0.01,Low
+M03706,50.6,Personal Support Worker,0.01,Low
+M03718,50.3,Registered Nurse,0.01,Low
+M03726,50.8,Administration,0.01,Low
+M00376,50.7,Administration,0.01,Low
+M00387,52.3,Registered Practical Nurse,0.01,Low
+M01650,50.9,Registered Nurse,0.01,Low
+M03179,52.1,Registered Practical Nurse,0.01,Low
+M00521,50.6,Registered Nurse,0.01,Low
+M03013,52.0,Personal Support Worker,0.01,Low
+M03029,52.0,Administration,0.01,Low
+M03030,51.9,Registered Nurse,0.01,Low
+M03066,50.1,Registered Nurse,0.01,Low
+M00771,51.2,Medical Technologist,0.01,Low
+M04673,51.6,Allied Health Professional,0.01,Low
+M00595,51.9,Registered Nurse,0.01,Low
+M01677,51.3,Registered Nurse,0.01,Low
+M01617,50.7,Registered Nurse,0.01,Low
+M01631,50.1,Registered Nurse,0.01,Low
+M00890,51.8,Administration,0.01,Low
+M00391,51.0,Medical Technologist,0.01,Low
+M00407,51.5,Registered Nurse,0.01,Low
+M00410,50.4,Personal Support Worker,0.01,Low
+M03637,51.2,Personal Support Worker,0.01,Low
+M02399,51.6,Registered Nurse,0.01,Low
+M02447,50.7,Management,0.01,Low
+M02182,50.5,Registered Nurse,0.01,Low
+M02185,51.0,Personal Support Worker,0.01,Low
+M02195,51.6,Allied Health Professional,0.01,Low
+M04683,50.7,Personal Support Worker,0.01,Low
+M04688,51.9,Administration,0.01,Low
+M03643,51.4,Personal Support Worker,0.01,Low
+M03674,51.8,Registered Nurse,0.01,Low
+M03747,50.5,Personal Support Worker,0.01,Low
+M04725,51.7,Personal Support Worker,0.01,Low
+M04726,51.4,Administration,0.01,Low
+M04729,50.6,Registered Nurse,0.01,Low
+M01055,50.0,Registered Nurse,0.01,Low
+M01985,51.2,Administration,0.01,Low
+M02994,53.1,Allied Health Professional,0.01,Low
+M03007,50.9,Registered Nurse,0.01,Low
+M03011,50.5,Registered Nurse,0.01,Low
+M00481,51.2,Administration,0.01,Low
+M01552,50.0,Registered Nurse,0.01,Low
+M01554,52.4,Registered Practical Nurse,0.01,Low
+M01575,52.7,Registered Practical Nurse,0.01,Low
+M01581,51.9,Personal Support Worker,0.01,Low
+M01586,50.1,Administration,0.01,Low
+M01607,51.1,Registered Nurse,0.01,Low
+M03819,52.1,Registered Practical Nurse,0.01,Low
+M03855,50.5,Registered Nurse,0.01,Low
+M03856,50.7,Registered Nurse,0.01,Low
+M00968,50.6,Medical Technologist,0.01,Low
+M00981,51.9,Administration,0.01,Low
+M01498,51.3,Registered Nurse,0.01,Low
+M01532,52.7,Registered Practical Nurse,0.01,Low
+M01649,51.5,Administration,0.01,Low
+M03767,50.3,Administration,0.01,Low
+M03768,52.9,Registered Practical Nurse,0.01,Low
+M03783,52.1,Registered Nurse,0.01,Low
+M00319,52.4,Personal Support Worker,0.01,Low
+M00327,52.2,Administration,0.01,Low
+M00346,52.0,Personal Support Worker,0.01,Low
+M03737,51.2,Administration,0.01,Low
+M03741,51.2,Registered Nurse,0.01,Low
+M00264,50.4,Personal Support Worker,0.01,Low
+M01543,52.1,Registered Nurse,0.01,Low
+M01545,51.4,Allied Health Professional,0.01,Low
+M03876,51.3,Registered Nurse,0.01,Low
+M03951,52.6,Registered Nurse,0.01,Low
+M03985,52.0,Allied Health Professional,0.01,Low
+M00483,52.3,Allied Health Professional,0.01,Low
+M00504,50.6,Registered Practical Nurse,0.01,Low
+M02951,52.0,Registered Nurse,0.01,Low
+M02975,51.8,Administration,0.01,Low
+M02981,52.4,Registered Nurse,0.01,Low
+M00813,51.8,Administration,0.01,Low
+M01965,50.6,Management,0.01,Low
+M02051,50.1,Registered Nurse,0.01,Low
+M03986,50.9,Personal Support Worker,0.01,Low
+M03813,50.7,Registered Nurse,0.01,Low
+M00537,50.5,Registered Practical Nurse,0.01,Low
+M00936,52.2,Medical Technologist,0.01,Low
+M00940,52.2,Allied Health Professional,0.01,Low
+M03989,51.2,Registered Nurse,0.01,Low
+M03991,50.7,Administration,0.01,Low
+M03993,52.7,Registered Practical Nurse,0.01,Low
+M04024,50.8,Registered Practical Nurse,0.01,Low
+M02055,51.7,Registered Nurse,0.01,Low
+M02860,52.6,Registered Nurse,0.01,Low
+M02861,51.0,Registered Nurse,0.01,Low
+M02942,52.1,Registered Practical Nurse,0.01,Low
+M02943,50.2,Personal Support Worker,0.01,Low
+M02806,52.0,Registered Nurse,0.01,Low
+M02811,51.7,Allied Health Professional,0.01,Low
+M00245,51.8,Administration,0.01,Low
+M00257,52.3,Personal Support Worker,0.01,Low
+M00557,50.6,Registered Nurse,0.01,Low
+M04153,51.3,Personal Support Worker,0.01,Low
+M04156,51.5,Registered Nurse,0.01,Low
+M00273,52.4,Personal Support Worker,0.01,Low
+M00278,51.8,Administration,0.01,Low
+M01468,52.2,Registered Nurse,0.01,Low
+M02831,52.0,Registered Nurse,0.01,Low
+M02840,51.1,Personal Support Worker,0.01,Low
+M02845,50.4,Medical Technologist,0.01,Low
+M02008,51.0,Administration,0.01,Low
+M02038,50.7,Registered Nurse,0.01,Low
+M02042,52.4,Registered Practical Nurse,0.01,Low
+M02782,51.7,Administration,0.01,Low
+M02804,50.9,Personal Support Worker,0.01,Low
+M00523,51.3,Personal Support Worker,0.01,Low
+M00525,52.2,Registered Nurse,0.01,Low
+M00963,50.9,Personal Support Worker,0.01,Low
+M00295,52.1,Allied Health Professional,0.01,Low
+M04115,51.9,Personal Support Worker,0.01,Low
+M04126,52.3,Registered Practical Nurse,0.01,Low
+M04136,51.7,Registered Nurse,0.01,Low
+M04146,51.7,Registered Nurse,0.01,Low
+M04148,51.7,Registered Practical Nurse,0.01,Low
+M02159,52.0,Personal Support Worker,0.01,Low
+M02448,52.0,Administration,0.01,Low
+M02468,51.0,Registered Nurse,0.01,Low
+M02473,51.5,Personal Support Worker,0.01,Low
+M02479,50.2,Medical Technologist,0.01,Low
+M02529,50.0,Registered Nurse,0.01,Low
+M02562,52.7,Allied Health Professional,0.01,Low
+M02565,51.6,Registered Practical Nurse,0.01,Low
+M00552,50.4,Medical Technologist,0.01,Low
+M02629,51.1,Administration,0.01,Low
+M04595,50.5,Personal Support Worker,0.01,Low
+M04610,50.7,Allied Health Professional,0.01,Low
+M04613,50.1,Registered Nurse,0.01,Low
+M04624,51.9,Administration,0.01,Low
+M04645,50.7,Registered Nurse,0.01,Low
+M04650,50.4,Personal Support Worker,0.01,Low
+M04672,50.6,Registered Nurse,0.01,Low
+M04185,51.7,Personal Support Worker,0.01,Low
+M04193,51.9,Personal Support Worker,0.01,Low
+M01392,50.9,Registered Nurse,0.01,Low
+M01394,52.7,Personal Support Worker,0.01,Low
+M01431,51.2,Registered Nurse,0.01,Low
+M01433,51.7,Personal Support Worker,0.01,Low
+M01445,52.1,Personal Support Worker,0.01,Low
+M01450,50.9,Registered Nurse,0.01,Low
+M04326,52.1,Allied Health Professional,0.01,Low
+M04341,52.6,Medical Technologist,0.01,Low
+M04342,51.1,Personal Support Worker,0.01,Low
+M04359,52.0,Registered Nurse,0.01,Low
+M01173,50.4,Medical Technologist,0.01,Low
+M01189,51.0,Allied Health Professional,0.01,Low
+M04593,52.1,Registered Practical Nurse,0.01,Low
+M00560,51.7,Administration,0.01,Low
+M00591,50.1,Management,0.01,Low
+M00708,51.9,Registered Practical Nurse,0.01,Low
+M02708,50.0,Registered Nurse,0.01,Low
+M02719,50.9,Registered Nurse,0.01,Low
+M02724,52.3,Personal Support Worker,0.01,Low
+M02755,50.8,Allied Health Professional,0.01,Low
+M02769,52.6,Registered Practical Nurse,0.01,Low
+M02774,50.3,Registered Nurse,0.01,Low
+M01461,51.1,Registered Nurse,0.01,Low
+M02630,51.0,Management,0.01,Low
+M02653,50.5,Registered Nurse,0.01,Low
+M02664,50.1,Registered Nurse,0.01,Low
+M02063,51.8,Administration,0.01,Low
+M02064,50.5,Registered Practical Nurse,0.01,Low
+M02073,52.1,Personal Support Worker,0.01,Low
+M02110,52.2,Registered Nurse,0.01,Low
+M02120,50.8,Allied Health Professional,0.01,Low
+M02123,52.2,Personal Support Worker,0.01,Low
+M02162,51.1,Medical Technologist,0.01,Low
+M02168,51.3,Registered Practical Nurse,0.01,Low
+M04268,52.3,Allied Health Professional,0.01,Low
+M04277,52.0,Registered Nurse,0.01,Low
+M04286,51.8,Personal Support Worker,0.01,Low
+M04296,52.4,Allied Health Professional,0.01,Low
+M04421,52.1,Personal Support Worker,0.01,Low
+M04439,51.5,Personal Support Worker,0.01,Low
+M04446,51.7,Personal Support Worker,0.01,Low
+M04476,50.6,Allied Health Professional,0.01,Low
+M04479,50.8,Registered Nurse,0.01,Low
+M04481,50.6,Registered Nurse,0.01,Low
+M04499,52.1,Allied Health Professional,0.01,Low
+M04502,51.3,Personal Support Worker,0.01,Low
+M04360,51.3,Allied Health Professional,0.01,Low
+M04372,52.4,Medical Technologist,0.01,Low
+M04376,50.8,Registered Nurse,0.01,Low
+M04390,51.2,Registered Nurse,0.01,Low
+M04413,51.0,Registered Practical Nurse,0.01,Low
+M01366,51.0,Medical Technologist,0.01,Low
+M01378,51.5,Personal Support Worker,0.01,Low
+M01385,52.2,Allied Health Professional,0.01,Low
+M00603,51.1,Registered Practical Nurse,0.01,Low
+M00604,50.7,Administration,0.01,Low
+M01130,51.3,Administration,0.01,Low
+M01142,50.1,Medical Technologist,0.01,Low
+M01147,52.3,Registered Nurse,0.01,Low
+M01149,50.8,Registered Nurse,0.01,Low
+M00180,52.5,Personal Support Worker,0.01,Low
+M00207,50.8,Management,0.01,Low
+M01210,51.2,Personal Support Worker,0.01,Low
+M01226,51.2,Administration,0.01,Low
+M01250,52.1,Administration,0.01,Low
+M01262,51.9,Registered Practical Nurse,0.01,Low
+M01294,51.4,Registered Nurse,0.01,Low
+M01302,51.4,Registered Nurse,0.01,Low
+M01307,51.5,Registered Nurse,0.01,Low
+M01387,51.0,Allied Health Professional,0.01,Low
+M01125,52.2,Administration,0.01,Low
+M00056,50.7,Allied Health Professional,0.01,Low
+M04964,52.6,Registered Practical Nurse,0.01,Low
+M00073,51.9,Registered Nurse,0.01,Low
+M04937,51.7,Medical Technologist,0.01,Low
+M04941,51.5,Allied Health Professional,0.01,Low
+M00135,52.2,Medical Technologist,0.01,Low
+M00146,50.7,Medical Technologist,0.01,Low
+M00004,51.0,Registered Practical Nurse,0.01,Low
+M02314,50.0,Administration,0.01,Low
+M00651,50.5,Registered Nurse,0.01,Low
+M00663,50.3,Personal Support Worker,0.01,Low
+M00679,50.4,Registered Nurse,0.01,Low
+M00681,50.5,Management,0.01,Low
+M00685,50.8,Medical Technologist,0.01,Low
+M04730,50.0,Administration,0.01,Low
+M00420,52.2,Registered Nurse,0.01,Low
+M00424,50.5,Registered Nurse,0.01,Low
+M00441,50.1,Management,0.01,Low
+M01767,51.0,Allied Health Professional,0.01,Low
+M00157,52.6,Allied Health Professional,0.01,Low
+M04868,51.3,Personal Support Worker,0.01,Low
+M04879,52.5,Registered Practical Nurse,0.01,Low
+M00081,52.0,Registered Nurse,0.01,Low
+M00098,50.7,Registered Nurse,0.01,Low
+M00111,52.1,Registered Practical Nurse,0.01,Low
+M04925,50.9,Personal Support Worker,0.01,Low
+M00240,50.6,Registered Nurse,0.01,Low
+M04526,51.0,Medical Technologist,0.01,Low
+M04561,51.5,Registered Practical Nurse,0.01,Low
+M04579,52.4,Registered Practical Nurse,0.01,Low
+M04584,51.8,Registered Nurse,0.01,Low
+M00095,50.0,Medical Technologist,0.0,Low
+M04568,50.3,Medical Technologist,0.0,Low
+M00227,50.1,Allied Health Professional,0.0,Low
+M04435,50.5,Allied Health Professional,0.0,Low
+M01319,50.4,Allied Health Professional,0.0,Low
+M04297,50.1,Registered Nurse,0.0,Low
+M04345,50.1,Administration,0.0,Low
+M01174,50.0,Personal Support Worker,0.0,Low
+M04211,50.1,Personal Support Worker,0.0,Low
+M01407,50.3,Personal Support Worker,0.0,Low
+M01410,50.6,Allied Health Professional,0.0,Low
+M04168,50.0,Administration,0.0,Low
+M04037,50.7,Registered Practical Nurse,0.0,Low
+M01527,50.4,Allied Health Professional,0.0,Low
+M03769,50.2,Registered Practical Nurse,0.0,Low
+M03788,50.5,Allied Health Professional,0.0,Low
+M00400,50.3,Allied Health Professional,0.0,Low
+M00860,50.3,Registered Practical Nurse,0.0,Low
+M01727,50.1,Personal Support Worker,0.0,Low
+M03390,50.2,Registered Practical Nurse,0.0,Low
+M03416,50.0,Personal Support Worker,0.0,Low
+M00799,50.1,Registered Practical Nurse,0.0,Low
+M03175,50.5,Allied Health Professional,0.0,Low
+M01914,50.1,Registered Practical Nurse,0.0,Low
+M01046,50.4,Medical Technologist,0.0,Low
+M00490,50.5,Allied Health Professional,0.0,Low
+M00492,50.4,Allied Health Professional,0.0,Low
+M00508,50.0,Medical Technologist,0.0,Low
+M00812,50.0,Registered Practical Nurse,0.0,Low
+M01939,50.5,Personal Support Worker,0.0,Low
+M02028,50.1,Registered Practical Nurse,0.0,Low
+M00594,50.6,Registered Practical Nurse,0.0,Low
+M02689,50.0,Personal Support Worker,0.0,Low
+M02662,50.3,Registered Practical Nurse,0.0,Low
+M00628,50.2,Registered Practical Nurse,0.0,Low
+M02600,50.0,Allied Health Professional,0.0,Low
+M00602,50.0,Registered Practical Nurse,0.0,Low
+M02142,50.2,Allied Health Professional,0.0,Low
+M02204,50.5,Allied Health Professional,0.0,Low
+M02345,50.1,Registered Practical Nurse,0.0,Low
+M00644,50.0,Administration,0.0,Low
+M00647,50.0,Medical Technologist,0.0,Low
+M00035,50.2,Allied Health Professional,0.0,Low
+M04987,50.1,Registered Practical Nurse,0.0,Low
+M00020,50.1,Registered Practical Nurse,0.0,Low
+M00015,50.3,Registered Practical Nurse,0.0,Low

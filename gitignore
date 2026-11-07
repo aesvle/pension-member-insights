@@ -1,0 +1,9 @@
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Power BI temporary files
+*.pbix.bak
+~$*

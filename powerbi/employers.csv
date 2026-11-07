@@ -1,0 +1,26 @@
+employer_id,employer_name,employer_type,region
+E001,Toronto Hospital 01,Hospital,Toronto
+E002,Central Long-Term Care 02,Long-Term Care,Central
+E003,East Long-Term Care 03,Long-Term Care,East
+E004,West Hospital 04,Hospital,West
+E005,North Hospital 05,Hospital,North
+E006,Toronto Community Health 06,Community Health,Toronto
+E007,Central Hospital 07,Hospital,Central
+E008,East Long-Term Care 08,Long-Term Care,East
+E009,West Hospital 09,Hospital,West
+E010,North Hospital 10,Hospital,North
+E011,Toronto Hospital 11,Hospital,Toronto
+E012,Central Community Health 12,Community Health,Central
+E013,East Long-Term Care 13,Long-Term Care,East
+E014,West Long-Term Care 14,Long-Term Care,West
+E015,North Long-Term Care 15,Long-Term Care,North
+E016,Toronto Long-Term Care 16,Long-Term Care,Toronto
+E017,Central Hospital 17,Hospital,Central
+E018,East Hospital 18,Hospital,East
+E019,West Community Health 19,Community Health,West
+E020,North Hospital 20,Hospital,North
+E021,Toronto Hospital 21,Hospital,Toronto
+E022,Central Hospital 22,Hospital,Central
+E023,East Hospital 23,Hospital,East
+E024,West Community Health 24,Community Health,West
+E025,North Long-Term Care 25,Long-Term Care,North
