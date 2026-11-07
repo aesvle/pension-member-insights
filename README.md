@@ -29,7 +29,7 @@ Python (pandas, NumPy, scikit-learn) · SQL (SQLite) · Power BI
 | 5 | `retirement_model.py` | Logistic Regression model that gives each active member aged 50+ a retirement risk score (83% accuracy on test data) |
 | 6 | `DATA_DICTIONARY.md` | Explains every table and column |
 
-## The machine learning model (simple version)
+## The machine learning model
 - **Learns from:** members aged 55+, some retired and some still working
 - **Uses:** age, job category, full-time or part-time
 - **Predicts:** how much an active member "looks like" someone who already retired
